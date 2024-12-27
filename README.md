@@ -1,3 +1,4 @@
+Details About Password Strength Checker
 # Password-Strength-CheckerA password strength checker evaluates the strength of a password based on certain criteria such as length, complexity, and unpredictability. Below is a simple Python implementation of a password strength checker:
 
 Features:
